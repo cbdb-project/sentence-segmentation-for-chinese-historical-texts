@@ -27,7 +27,7 @@ If you also want to help these projects or scholars, we also opened our training
 
 # Requirement
 
-Python 2.7, flask, tqdm, numpy, scipy, theano
+Python2.7, flask, tqdm, numpy, scipy, theano
 
 Notes: We highly suggest you deploy it in a virtual environment by conda or other tools.
 
