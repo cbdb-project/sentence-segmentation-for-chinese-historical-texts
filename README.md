@@ -1,4 +1,4 @@
-# Sentence segmentation for chinese historical texts 漢語古文斷句預訓練模型
+# Sentence segmentation model for chinese historical texts 漢語古文斷句預訓練模型
 
 # Description
 
