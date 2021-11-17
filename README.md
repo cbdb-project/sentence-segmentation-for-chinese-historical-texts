@@ -19,11 +19,11 @@ We created this model on 2018：
 
 We found that there is no project has opened their pre-trained sentence segmentation models to the public yet. Although this is an old model, we think that it still can help some projects.
 
-This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model by yourself.
+This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model on yourself.
 
 This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model.
 
-If you also would like to help these projects, scholars and amateurs, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. Or contact Hongsu Wang(hongsuwang[at]fas.harvard.edu) directly to join our open source community. We are looking forward to see more open pre-trained models in China historical research.
+If you also would like to help these projects, scholars and amateurs, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. Any pull requests are all welcomed. We are looking forward to see more open pre-trained models in China historical research.
 
 We losed the source codes to train the model. Once we find them back, we will absolutely update them to this repository.
 
