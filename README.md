@@ -69,7 +69,7 @@ For Tang Dynasty Epitaphs:
 
 http://127.0.0.1:5000/upload/muzhi
 
-Notes: The results of the difference between the first two URLs is not big enough. You can use either of them for general purposed segmentation.
+Notes: The difference of correction between the first two URLs is not big enough. You can use either of them for general purposed segmentation.
 
 3. Please put the text which you want to segment to a text file, and then use the "Choose File" button to upload your file. After you click "Submit", it will start segmentation. After it finishes, it will download the result for you automatically.
 
