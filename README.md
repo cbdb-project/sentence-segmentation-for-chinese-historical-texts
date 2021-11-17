@@ -19,7 +19,7 @@ We created this model on 2018：
 
 We found that there is no project has opened their pre-trained sentence segmentation models to the public yet. Although this is an old model, we think that it still can help some projects.
 
-This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund, please DO pay for current commercial sentence segmentation or punctuation model or create the model by yourself.
+This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation or punctuation model or create the model by yourself.
 
 This repository is only for those projects and scholars who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model.
 
