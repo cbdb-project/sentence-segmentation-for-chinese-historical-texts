@@ -21,7 +21,7 @@ We found that there is no project has opened their pre-trained sentence segmenta
 
 This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model on yourself. 此倉庫並不是任何當下斷句或者標點系統的競爭者。如果您有資金支持或者有其他選擇，請選擇那些當下的商業化斷句、標點模型，或利用自己的資源訓練合適的模型。
 
-This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model. 此倉庫僅希望為以下項目、學者、愛好者提供幫助：1）希望標記成千上萬條語料記錄，研究結論對對標點正確率容忍度高。2）無法建立自己的古漢語標點模型。3）無力支付付費模型。
+This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model. 此倉庫僅希望為以下項目、學者、愛好者提供幫助：1）希望標記成千上萬條語料記錄，研究結論對對標點正確率容忍度高。2）無法建立自己的古漢語斷句、標點模型。3）無力支付付費模型。
 
 We opened our training data here(training-data/). If you also want to help these projects, scholars and amateurs mentioned above, you can create your own model by these training data. Or add more training data. Any pull requests are welcomed. We are looking forward to see more open pre-trained models in China historical research. 在本倉庫的 training-data/ 目錄下，您可以找到我們用於訓練此模型的語料。如果希望幫助上述項目、學者、愛好者，您也可以基於這些訓練集訓練自己的模型，或豐富訓練集的內容。我們歡迎任何人向本倉庫提交代碼或無版權問題的語料。我們期待在中國歷史研究中，未來會有更多的預訓練模型開放給公眾。
 
