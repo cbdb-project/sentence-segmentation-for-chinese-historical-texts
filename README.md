@@ -23,7 +23,7 @@ This repository is not a competitor of any current sentence segmentation or punc
 
 This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model.
 
-If you also would like to help these projects, scholars and amateurs, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. Any pull requests are all welcomed. We are looking forward to see more open pre-trained models in China historical research.
+We opened our training data here(training-data/). If you also want to help these projects, scholars and amateurs mentioned above, you can create your own model by these training data. Or add more training data. Any pull requests are welcomed. We are looking forward to see more open pre-trained models in China historical research.
 
 We losed the source codes which we used to train the model. Once we find them back, we will update them to this repository immediately.
 
