@@ -21,9 +21,11 @@ We found that there is no project has opened their pre-trained sentence segmenta
 
 This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model by yourself.
 
-This repository is only for those projects and scholars who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model.
+This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model.
 
-If you also want to help these projects or scholars, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. We are looking forward to see more open pre-trained models in China historical research.
+If you also would like to help these projects, scholars and amateurs, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. We are looking forward to see more open pre-trained models in China historical research.
+
+We losed the source codes to train the model. Once we find them back, we will absolutely update them to this repository.
 
 # Requirement
 
