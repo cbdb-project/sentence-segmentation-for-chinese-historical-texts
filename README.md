@@ -25,9 +25,9 @@ This repository is only for those projects, scholars and amateurs who 1) want to
 
 If you also would like to help these projects, scholars and amateurs, we also opened our training data here(training-data/). If you want, you can also create your own model by these training data. Or add more training data. Any pull requests are all welcomed. We are looking forward to see more open pre-trained models in China historical research.
 
-We losed the source codes to train the model. Once we find them back, we will absolutely update them to this repository.
+We losed the source codes which we used to train the model. Once we find them back, we will update them to this repository immediately.
 
-# Requirement
+# Requirements
 
 Python2.7, flask, tqdm, numpy, scipy, theano
 
