@@ -2,7 +2,7 @@
 
 # Description
 
-This is a pre-trained LSTM model. This model can help you to segement unpunctuated historical Chinese texts, such as 這是基於 LSTM 的預訓練模型。此模型可幫助您為漢語古文斷句。譬如，可將這樣無標點符號的句子
+This is a pre-trained LSTM model. This model can help you to segment unpunctuated historical Chinese texts, such as 這是基於 LSTM 的預訓練模型。此模型可幫助您為漢語古文斷句。譬如，可將這樣無標點符號的句子
 
 >閔頔宗儒子字樂全元宗己巳生忠烈乙酉登科
 
