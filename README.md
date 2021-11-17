@@ -19,7 +19,7 @@ We created this model on 2018： 我們在 2018 年建立此模型：
 
 We found that there is no project has opened their pre-trained sentence segmentation models to the public yet. Although this is an old model, we think that it can still help some projects. 雖然模型已很老舊，我們發現當前並沒有項目在 GitHub 上公開用於漢語古文斷句的預訓練模型，因此我們認為它仍能幫到一些項目。
 
-This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model on yourself. 此倉庫並不是任何當下斷句或者標點系統的競爭者。如果您有資金支持或者有其他選擇，請選擇那些當下的商業化斷句、標點模型，或利用自己的資源訓練合適的模型。
+This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the "modern" model on yourself. 此倉庫並不是任何當下斷句或者標點系統的競爭者。如果您有資金支持或者有其他選擇，請選擇那些當下的商業化斷句、標點模型，或利用自己的資源訓練合適的「現代」模型。
 
 This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model. 此倉庫僅希望為以下項目、學者、愛好者提供幫助：1）希望標記成千上萬條語料記錄，研究結論對對標點正確率容忍度高。2）無法建立自己的古漢語斷句、標點模型。3）無力支付付費模型。
 
