@@ -2,7 +2,7 @@
 
 # Description
 
-This is a pre-trained LSTM model. This model can help you to segement unpunctuated historical Chinese texts, such as 這是基於 LSTM 的預訓練模型。此模型可幫助您為漢語古文斷句。譬如，可將下列無標點符號的句子
+This is a pre-trained LSTM model. This model can help you to segement unpunctuated historical Chinese texts, such as 這是基於 LSTM 的預訓練模型。此模型可幫助您為漢語古文斷句。譬如，可將這樣無標點符號的句子
 
 >閔頔宗儒子字樂全元宗己巳生忠烈乙酉登科
 
@@ -23,7 +23,7 @@ This repository is not a competitor of any current sentence segmentation or punc
 
 This repository is only for those projects, scholars and amateurs who 1) want to analysis millions records of historical Chinese texts, so that a high correction rate of punctuation is not an essential condition for your argument; And 2) can't create their own model; And 3) can't afford a commercial model. 此倉庫僅希望為以下項目、學者、愛好者提供幫助：1）希望標記成千上萬條語料記錄，研究結論對標點正確率容忍度高。2）無法建立自己的古漢語斷句、標點模型。3）無力支付付費模型。
 
-We opened our training data here(training-data/). If you also want to help these projects, scholars and amateurs mentioned above, you can create your own model by these training data. Or add more training data. Any pull requests are welcomed. We are looking forward to see more open pre-trained models in China historical research. 在本倉庫的 training-data/ 目錄下，您可以找到我們用於訓練此模型的語料。如果希望幫助上述項目、學者、愛好者，您也可以基於這些訓練集訓練自己的模型，或豐富訓練集的內容。我們歡迎任何人向本倉庫提交代碼或無版權問題的語料。我們期待在中國歷史研究中，未來會有更多的預訓練模型開放給公眾。
+We opened our training data here(training-data/). If you also want to help these projects, scholars and amateurs mentioned above, you can create your own model by these training data. Or add more training data. Any pull requests are welcomed. We are looking forward to see more open pre-trained models in China historical research. 在本倉庫的 training-data/ 目錄下，您可以找到我們用於訓練此模型的語料。如果希望幫助上述項目、學者、愛好者，您亦可基於這些訓練集訓練自己的模型，或豐富訓練集的內容。我們歡迎任何人向本倉庫提交代碼或無版權問題的語料。我們期待在中國歷史研究中，未來會有更多的預訓練模型開放給公眾。
 
 We losed the source codes which we used to train the model. Once we find them back, we will update them to this repository immediately. 我們丟失了用於訓練模型的源代碼，但未來如果找到，第一時間更新在此倉庫中。
 
@@ -31,7 +31,7 @@ We losed the source codes which we used to train the model. Once we find them ba
 
 Python2.7, flask, tqdm, numpy, scipy, theano
 
-Notes: We highly suggest you deploy it in a virtual environment by conda or other tools. 我們強烈建議您使用 conda 或其他工具將本模型部署在虛擬環境中。
+Notes: We highly suggest you deploy it in a virtual environment by conda or other tools. 強烈建議您使用 conda 或其他工具將本模型部署在虛擬環境中。
 
 # Directories
 
