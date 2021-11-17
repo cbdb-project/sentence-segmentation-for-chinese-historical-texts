@@ -17,7 +17,7 @@ We created this model on 2018：
 >  Xu Han, Hongsu Wang, Sanqian Zhang, Qunchao Fu, and Jun S Liu. 2018. “[Sentence Segmentation for Classical Chinese Based on LSTM with Radical Embedding](https://projects.iq.harvard.edu/files/cbdb/files/sentence_segmentation_for_classical_chinese_based_on_lstm_with_radical_embedding.pdf).”
 
 
-We found that there is no project has opened their pre-trained sentence segmentation models to the public yet. Although this is an old model, we think that it still can help some projects.
+We found that there is no project has opened their pre-trained sentence segmentation models to the public yet. Although this is an old model, we think that it can still help some projects.
 
 This repository is not a competitor of any current sentence segmentation or punctuation model. If you have the fund or resources, please DO pay for current commercial sentence segmentation, punctuation model or create the model on yourself.
 
