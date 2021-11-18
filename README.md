@@ -73,15 +73,11 @@ http://127.0.0.1:5000/upload/muzhi
 
 Comparation of the first two URLs 對前兩個 URL 斷句的對比:
 
-**Test sample (an office title from Ming Dynasty 明代的官名)**
-
-**累朝御製文集聖學心法及四書五經性理大全總視經理官**
+**累朝御製文集聖學心法及四書五經性理大全總視經理官**(an office title from Ming Dynasty 明代的官名)
 
 tang: 累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
 
 qing: 累朝御製文集聖學心法/及四書五經/性理大全總視經理/官
-
-Notes: The difference of correction between the first two URLs is not big enough. You can use either of them for general purposed segmentation. 中古時代和晚期時代的模型差別並不大，您如要對通用文本進行斷句，使用任一即可。
 
 4. Please put the text which you want to segment to a text file(txt), and then use the "Choose File" button to upload your file. After you click "Submit", it will start segmentation. After it finishes, it will download the result for you automatically. 請將您需要斷句的文本保存為文本文檔（txt），之後使用 Choose File 按鈕上傳此文本文檔。點擊 Submit 之後，系統將開始自動斷句。完成後，斷句的結果將被自動下載。
 
