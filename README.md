@@ -35,15 +35,17 @@ Notes: We highly suggest you deploy it in a virtual environment by conda or othe
 
 # Directories
 
-break-sent-api: The model to segment sentences. 用於斷句的模型
+break-sent-api.7z: The model to segment sentences. 用於斷句的模型
 
 training-data: The training data. 訓練集
 
 # Usage
 
-1. Run break-sent-api/app.py 運行 break-sent-api/app.py
+1. Extract break-sent-api.7z
 
-2. After you see something like this in your own command-line/terminal 在您的命令行或終端中看到類似如下提示後
+2. Run break-sent-api/app.py 運行 break-sent-api/app.py
+
+3. After you see something like this in your own command-line/terminal 在您的命令行或終端中看到類似如下提示後
 ```
   Serving Flask app "app" (lazy loading)
   Environment: production
@@ -69,9 +71,19 @@ For Tang Dynasty Epitaphs: 唐墓誌類型文本：
 
 http://127.0.0.1:5000/upload/muzhi
 
+Comparation of the first two URLs 對前兩個 URL 斷句的對比:
+
+**Test sample (an office title from Ming Dynasty 明代的官名)**
+
+**累朝御製文集聖學心法及四書五經性理大全總視經理官**
+
+tang: 累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
+
+qing: 累朝御製文集聖學心法/及四書五經/性理大全總視經理/官
+
 Notes: The difference of correction between the first two URLs is not big enough. You can use either of them for general purposed segmentation. 中古時代和晚期時代的模型差別並不大，您如要對通用文本進行斷句，使用任一即可。
 
-3. Please put the text which you want to segment to a text file(txt), and then use the "Choose File" button to upload your file. After you click "Submit", it will start segmentation. After it finishes, it will download the result for you automatically. 請將您需要斷句的文本保存為文本文檔（txt），之後使用 Choose File 按鈕上傳此文本文檔。點擊 Submit 之後，系統將開始自動斷句。完成後，斷句的結果將被自動下載。
+4. Please put the text which you want to segment to a text file(txt), and then use the "Choose File" button to upload your file. After you click "Submit", it will start segmentation. After it finishes, it will download the result for you automatically. 請將您需要斷句的文本保存為文本文檔（txt），之後使用 Choose File 按鈕上傳此文本文檔。點擊 Submit 之後，系統將開始自動斷句。完成後，斷句的結果將被自動下載。
 
 Notes: Please remove the lines which include less than 3 characters and blank lines in your upload text file. 請保持需要斷句的文本中每一行內容多於兩個字。
 
