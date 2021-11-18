@@ -85,7 +85,7 @@ Notes: Please remove the lines which include less than 3 characters and blank li
 
 Repository Contributors:
 
-[Xu HAN](https://github.com/fionaxuxu), [Hongsu WANG](https://github.com/sudoghut)
+[Xu HAN](https://github.com/fionaxuxu) on codes, [Hongsu WANG](https://github.com/sudoghut) on documentation
 
 
 # Licence
