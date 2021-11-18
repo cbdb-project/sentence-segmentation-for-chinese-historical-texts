@@ -41,7 +41,7 @@ training-data: The training data. 訓練集
 
 # Usage
 
-1. Extract break-sent-api.7z
+1. Extract break-sent-api.7z 解压 break-sent-api.7z
 
 2. Run break-sent-api/app.py 運行 break-sent-api/app.py
 
