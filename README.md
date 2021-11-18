@@ -75,9 +75,13 @@ Comparation of the first two URLs 對前兩個 URL 斷句的對比:
 
 **累朝御製文集聖學心法及四書五經性理大全總視經理官** (An office title from late imperial China, Ming Dynasty 一个明代官名)
 
-tang: 累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
+Middle period China model: 中國中古時代模型：
 
-qing: 累朝御製文集聖學心法/及四書五經/性理大全總視經理/官
+累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
+
+Late imperial China model: 晚期中國模型: 
+
+累朝御製文集聖學心法/及四書五經/性理大全總視經理/官
 
 4. Please put the text which you want to segment to a text file(txt), and then use the "Choose File" button to upload your file. After you click "Submit", it will start segmentation. After it finishes, it will download the result for you automatically. 請將您需要斷句的文本保存為文本文檔（txt），之後使用 Choose File 按鈕上傳此文本文檔。點擊 Submit 之後，系統將開始自動斷句。完成後，斷句的結果將被自動下載。
 
