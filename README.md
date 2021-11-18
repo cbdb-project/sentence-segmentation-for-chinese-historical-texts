@@ -73,7 +73,7 @@ http://127.0.0.1:5000/upload/muzhi
 
 Comparation of the first two URLs 對前兩個 URL 斷句的對比:
 
-**累朝御製文集聖學心法及四書五經性理大全總視經理官**(an office title from Ming Dynasty 明代的官名)
+**累朝御製文集聖學心法及四書五經性理大全總視經理官** (An office title from late imperial China, Ming Dynasty 一个明代官名)
 
 tang: 累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
 
