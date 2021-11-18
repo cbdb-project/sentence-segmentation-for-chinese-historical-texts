@@ -75,11 +75,11 @@ Comparation of the first two URLs 對前兩個 URL 斷句的對比:
 
 **累朝御製文集聖學心法及四書五經性理大全總視經理官** (An office title from late imperial China, Ming Dynasty 一个明代官名)
 
-Middle period China model: 中國中古時代模型：
+Middle period China model: 中國中古時代斷句模型：
 
 累朝御製文/集聖學心法/及四書五經性理/大全總視經理/官
 
-Late imperial China model: 晚期中國模型: 
+Late imperial China model: 晚期中國斷句模型: 
 
 累朝御製文集聖學心法/及四書五經/性理大全總視經理/官
 
